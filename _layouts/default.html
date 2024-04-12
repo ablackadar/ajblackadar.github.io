@@ -14,11 +14,13 @@
     {% include head-custom.html %}
   </head>
 
-<header>{% include header.html %}</header>
+<header>
+  {% include header.html %}
+  <hr>
+</header>
 
   <body>
     <div id="container">
-      <hr>
       <section id="main_content">
         {{ content }}
       </section>
