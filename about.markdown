@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: pages
 title: About
+permalink: /about/
 ---
 <div class="main_content">
     <section class="center" id="about">
