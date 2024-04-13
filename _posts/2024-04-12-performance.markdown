@@ -6,9 +6,9 @@ tags: SuperCollider NVDA
 
 <p>After 10 weeks of study, troubleshooting, tears, and luck, I was finally able to use my screen reader in a live coding performance!</p>
 
-<section class="center" id="performance">
+<div class="video" id="performance">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZWFjWbyrl0g?si=jPRZHgPaDTzYVcV-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</section>
+</div>
 
 <h2>Designing for My Own Disability</h2>
 
