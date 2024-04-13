@@ -421,15 +421,13 @@ footer a:hover {
 /* All Mobile Sizes (devices and browser) */
 @media only screen and (max-width: 767px) {
   header {
-    position: fixed;
+    position: relative;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 20px;
     padding-right: 20px;
   }
-  div.relative {
-    width: 40%;
-  }
+
   #downloads {
     margin-bottom: 25px;
   }
