@@ -6,15 +6,17 @@ tags: SuperCollider NVDA
 
 <p>After 10 weeks of study, troubleshooting, tears, and luck, I was finally able to use my screen reader in a live coding performance!</p>
 
-<div class="video" id="performance">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZWFjWbyrl0g?si=jPRZHgPaDTzYVcV-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="inner">
+<div class="yt" id="performance">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ZWFjWbyrl0g?si=jPRZHgPaDTzYVcV-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 </div>
 
 <h2>Designing for My Own Disability</h2>
 
 <p>This performance was developed as part of my MSc in Sound Design and Audiovisual Practice at the University of Glasgow in response to barriers I encountered using industry-standard sound design tools with my screen reader.</p>
 
-<p>Though I am sighted, I have a disability that prevents me from using a mouse, reading, and looking at a screen for long periods of time without getting fatigued. This barrier means that many artistic and technical decisions that go into an independent project like this one are for me driven more by which tools are accessible than which tools are considered best suited for the job. My primary criterion for which software to use for this performance in particular was how compatible the interface would be with NonVisual Desktop Access (<a href="nvaccess.org">NVDA</a>), my preferred screen reader on Windows.</p>
+<p>Though I am sighted, I have a disability that prevents me from using a mouse, reading, and looking at a screen for long periods of time without getting fatigued. This barrier means that many artistic and technical decisions that go into an independent project like this one are for me driven more by which tools are accessible than which tools are considered best suited for the job. My primary criterion for which software to use for this performance in particular was how compatible the interface would be with NonVisual Desktop Access (<a href="https://nvaccess.org/">NVDA</a>), my preferred screen reader on Windows.</p>
 
 <p>REAPER is fully accessible for screen reader users thanks to the <a href="https://osara.reaperaccessibility.com/">OSARA extension</a> and tools such as the Actions List, which makes it my preferred DAW. For a live performance, however, software like Max MSP that would normally be suited to the task are not built for keyboard-only navigation and are much more difficult for me to navigate. While there are work-arounds like <a href="https://addons.nvda-project.org/addons/goldenCursor.en.html">the Golden Cursor add-on for NVDA</a> that I can use to work in moderately inaccessible software, setting this up is often too slow to be practical on a tight deadline.</p>
 
@@ -26,9 +28,11 @@ tags: SuperCollider NVDA
 
 <p>I used NVDA's speech dictionary, which is normally used to correct the occasional mispronunciation or misidentification of a particular word in context, to translate long lines of code into brief descriptions of what I was using that line of code to do:</p>
 
+<div class="yt">
 <img src="/docs/assets/nvda_sc.png" 
         alt="screenshot of SuperCollider code on left and their translations in NVDA's default dictionary on the right"
         height=500px>
+</div>
 
 <p>While slow, I found this "translation" to be the only way I could monitor my code and my looped sounds onstage at the same time, while still allowing the audience to "look under the hood" and attempt to understand what I was doing as they would be able to in a conventional live coding performance.
 
