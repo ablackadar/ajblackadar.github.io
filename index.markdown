@@ -5,7 +5,7 @@ layout: home
 ---
 <div class="main_content">
 <div class="flex-container">
-    <div class="responsive-pic">
+    <div>
     <img src="/docs/assets/ajphoto.png" 
     alt="Black and white picture of AJ, a white nonbinary person with short dark hair and glasses. Edited to look like a ripped piece of paper.">
     </div>
@@ -16,15 +16,15 @@ layout: home
 </div>
 </div>
 <div class="flex-container">
-<div>
+<div class="inner">
 <img src="../docs/assets/eq.png"
 alt="Black and white screenshot of a REAPER filter edited to look like a ripped piece of paper.">
 </div>
-<div>
+<div class="inner">
 <img src="../docs/assets/metasound.png"
 alt="Black and white screenshot of a MetaSounds node graph edited to look like a ripped piece of paper.">
 </div>
-<div>
+<div class="inner">
 <img src="../docs/assets/wwise.png"
     alt="Black and white screenshot of Wwise edited to look like a ripped piece of paper.">
 </div>
