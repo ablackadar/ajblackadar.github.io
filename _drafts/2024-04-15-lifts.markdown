@@ -1,0 +1,20 @@
+---
+layout: posts
+title: Field Recording Lifts
+tags: field-recording
+---
+
+<p>Despite taking many Californian elevators and a growing number of Scottish lifts to get where I need to go every week, I only recently started actually listening to and recording their varied creaks, groans, and reverberations.</p>
+
+<p>Tascam Dr-05x</p>
+
+<div class="inner">
+<div class="yt" id="performance">
+</div>
+</div>
+
+<h2>Field Recording</h2>
+
+<p>This project was developed as part of my MSc in Sound Design and Audiovisual Practice at the University of Glasgow.</p>
+
+<p>The recordings are taken on my way to do something else, and as such capture my day-to-day experience navigating as an ambulatory disabled person who struggles with stairs.</p>
